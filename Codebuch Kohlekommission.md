@@ -27,7 +27,7 @@ Die vollständig ausformulierten Namen der Knoten
 2=Person
 
 
-**sex **
+**sex**
 
 0=Keine Angabe, wegen Organisation
 4=female
