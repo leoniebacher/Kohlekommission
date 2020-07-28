@@ -1,0 +1,133 @@
+id,name,type,sex,age,representation,party,position,state
+JuttaAllmendinger,Jutta Allmendinger,2,4,7,8,0,4,7
+MichaelKreuzberg,Michael Kreuzberg,2,5,7,9,9,4,10
+ReinerPriggen,Reiner Priggen,2,5,7,9,7,4,10
+MichaelVassiliadis,Michael Vassiliadis,2,5,6,4,8,4,10
+AndreasScheidt,Andreas Scheidt,2,5,6,4,8,4,10
+StefanKoerzell,Stefan Koerzell,2,5,6,4,8,4,8
+MatthiasPlatzeck,Matthias Platzeck,2,5,7,6,8,5,5
+HubertWeiger,Hubert Weiger,2,5,7,7,0,4,6
+FelixMatthes,Felix Matthes,2,5,6,8,0,4,4
+ChristineHerntier,Christine Herntier,2,4,7,9,0,4,5
+AndreasLenz,Andreas Lenz,2,5,4,5,4,3,6
+HansJoachimSchellnhuber,Hans Joachim Schellnhuber,2,5,7,8,0,4,6
+AnnekathrinNiebuhr,Annekathrin Niebuhr,2,4,6,8,0,4,13
+MatthiasMiersch,Matthias Miersch,2,5,6,7,8,3,11
+AndreasLaemmel,Andreas Laemmel,2,5,6,5,9,3,12
+KaiNiebert,Kai Niebert,2,5,4,7,0,4,11
+RalfWehrspohn,Ralf Wehrspohn,2,5,5,8,0,4,13
+MartinKaiser,Martin Kaiser,2,5,6,7,0,4,9
+ClaudiaNemat,Claudia Nemat,2,4,6,5,0,4,10
+BarbaraPraetorius,Barbara Praetorius,2,4,6,6,0,5,4
+StanislawTillich,Stanislaw Tillich,2,5,7,6,9,5,12
+GerdaHasselfeldt,Gerda Hasselfeldt,2,4,7,6,4,4,6
+SteffenKampeter,Steffen Kampeter,2,5,6,5,9,4,10
+StefanKapferer,Stefan Kapferer,2,5,6,5,6,4,7
+DieterKempf,Dieter Kempf,2,5,7,5,0,4,6
+RonaldPofalla,Ronald Pofalla,2,5,7,6,9,5,10
+KatherinaReiche,Katherina Reiche,2,4,5,5,9,4,5
+GundaRoestel,Gunda Roestel,2,4,6,5,7,4,12
+EricSchweitzer,Eric Schweitzer,2,5,6,5,6,4,4
+AntjeGrothus,Antje Grothus,2,4,6,9,5,4,10
+HanneloreWodtke,Hannelore Wodtke,2,4,7,9,9,4,5
+ZDF,ZDF Verwaltungsrat,0,0,0,0,0,0,0
+SPD,SPD,0,0,0,0,8,0,0
+DeutscheBahn,Deutsche Bahn,0,0,0,0,0,0,0
+DeutschRussischeForum,Das Deutsch Russische Forum,0,0,0,0,0,0,0
+DeutscherBundestag,Deutscher Bundestag,0,0,0,0,0,0,4
+FlughafenBerlinBrandenburgGmbH,Flughafen Berlin Brandenburg GmbH,0,0,0,0,0,0,5
+CDU,CDU,0,0,0,0,9,0,0
+Bundeskanzleramt,Bundeskanzleramt,0,0,0,0,0,0,4
+GemeinderatWeeze,Gemeinderat Weeze,0,0,0,0,0,0,0
+HTWBerlin,Hochschule fuer Technik und Wirtschaft Berlin,0,0,0,0,0,0,4
+VerbandkommunalerUnternehmen,Verband kommunaler Unternehmen,0,0,0,0,0,0,0
+AgoraEnergiewende,Agora Energiewende,0,0,0,0,0,0,0
+MIBRAG,Braunkohle Unternehmen MIBRAG,0,0,0,0,0,0,0
+RKK,Rat des Kreises Kamenz,0,0,0,0,0,0,0
+EP,Europaeisches Parlament,0,0,0,0,0,0,0
+CSU,CSU,0,0,0,0,4,0,0
+DRK,Deutsches Rotes Kreuz,0,0,0,0,0,0,0
+FrauenUnion,Frauen Union,0,0,0,0,0,0,0
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbaende,0,0,0,0,0,0,0
+StiftungsratderKulturstiftung,Stiftungsrat der Kulturstiftung,0,0,0,0,0,0,0
+InitiativeMusik,Initiative Musik gGmbH,0,0,0,0,0,0,0
+Bundesfinanzministerium,Bundesfinanzministerium,0,0,0,0,0,0,0
+KulturakademieTarabya,Kulturakademie Tarabya,0,0,0,0,0,0,0
+FDP,FDP,0,0,0,0,6,0,0
+BDEW,Bundesverband der Energie und Wasserwirtschaft,0,0,0,0,0,0,0
+DEA,Deutsche Energie Agentur,0,0,0,0,0,0,0
+BundesministeriumfuerGesundheit,Bundesministerium fuer Gesundheit,0,0,0,0,0,0,0
+BDI,Bundesverband der Deutschen Industrie,0,0,0,0,0,0,0
+DATEV,DATEV eG,0,0,0,0,0,0,0
+DsiN,Deutschland sicher im Netz,0,0,0,0,0,0,0
+GVB,Genossenschaftsverband Bayern,0,0,0,0,0,0,6
+DeutscheMesse,Deutsche Messe AG,0,0,0,0,0,0,0
+CyberSicherheitsrat,Nationaler Cyber Sicherheitsrat,0,0,0,0,0,0,0
+Bitkom,Bitkom,0,0,0,0,0,0,0
+Telekom,Deutsche Telekom AG,0,0,0,0,0,0,0
+McKinsey,McKinsey,0,0,0,0,0,0,0
+Lanxess,Lanxess AG,0,0,0,0,0,0,0
+Airbus,Airbus SE,0,0,0,0,0,0,0
+EON,EON SE,0,0,0,0,0,0,0
+DieGruenen,Die Gruenen,0,0,0,0,7,0,0
+SD,Stadtentwaesserung Dresden GmbH,0,0,0,0,0,0,12
+EnBW,EnBW,0,0,0,0,0,0,7
+Gelsenwasser,Gelsenwasser AG,0,0,0,0,0,0,0
+NeuesForum,Neues Forum,0,0,0,0,0,0,0
+DIHT,Deutscher Industrie und Handelskammertag,0,0,0,0,0,0,0
+IHKBerlin,Industrie und Handelskammer Berlin,0,0,0,0,0,0,4
+FEAD,Europaeische Foederation der Entsorgungswirtschaft,0,0,0,0,0,0,0
+BerlinPartner,Berlin Partner GmbH,0,0,0,0,0,0,4
+RNE,Rat fuer Nachhaltige Entwicklung,0,0,0,0,0,0,0
+Tierschutzpartei,Tierschutzpartei,0,0,0,0,5,0,0
+BfB,Buirer fuer Buir,0,0,0,0,0,0,0
+KlimaAllianzDeutschland,Klima Allianz Deutschland,0,0,0,0,0,0,0
+GZW,Gruene Zukunft Welzow,0,0,0,0,0,0,5
+SprembergerTuche,Spremberger Tuche GmbH,0,0,0,0,0,0,5
+KreissparkasseKoeln,Kreissparkasse Koeln,0,0,0,0,0,0,10
+MetropolregionRheinland,Metropolregion Rheinland eV,0,0,0,0,0,0,0
+NaturparkRheinland,Naturpark Rheinland,0,0,0,0,0,0,0
+ZRR,Zukunftsagentur Rheinisches Revier,0,0,0,0,0,0,0
+LEENRW,Landesverband Erneuerbare Energien Nordrhein Westfalen,0,0,0,0,0,0,10
+LL,Landesverband Lippe,0,0,0,0,0,0,10
+LandtagNW,Landtag Nordrhein Westfalen,0,0,0,0,0,0,10
+BAPP,Bonner Akademie fuer Forschung und Lehre praktischer Politik,0,0,0,0,0,0,10
+CARE,Hilfsorganisation CARE Deutschland,0,0,0,0,0,0,0
+SNV,Stiftung Neue Verantwortung,0,0,0,0,0,0,0
+IGBCE,Industriegewerkschaft Bergbau Chemie Energie,0,0,0,0,0,0,0
+DienstleistungsgewerkschaftVerdi,Dienstleistungsgewerkschaft Verdi,0,0,0,0,0,0,0
+WuppertalerStadtwerke,Wuppertaler Stadtwerke GmbH,0,0,0,0,0,0,10
+DGB,Deutscher Gewerkschaftsbund,0,0,0,0,0,0,0
+DR,Deutsche Rentenversicherung,0,0,0,0,0,0,0
+HR,Hessischer Rundfunk,0,0,0,0,0,0,8
+Greenpeace,Greenpeace,0,0,0,0,0,0,0
+BUND,Bund fuer Umwelt und Naturschutz Deutschland,0,0,0,0,0,0,0
+VDW,Vereinigung Deutscher Wissenschaftler,0,0,0,0,0,0,0
+BALR,Bayerische Akademie Laendlicher Raum,0,0,0,0,0,0,6
+BSUGV,Bayerisches Staatsministerium fuer Umwelt Gesundheit und Verbraucherschutz,0,0,0,0,0,0,6
+DNR,Dachverband Deutscher Naturschutzring,0,0,0,0,0,0,0
+Naturfreunde,Naturfreunde Deutschlands,0,0,0,0,0,0,0
+DBU,Deutsche Bundesstiftung Umwelt,0,0,0,0,0,0,0
+WZB,Wissenschaftszentrum Berlin fuer Sozialforschung,0,0,0,0,0,0,4
+BHU,Berliner Humboldt Universitaet,0,0,0,0,0,0,4
+DGS,Deutsche Gesellschaft fuer Soziologie,0,0,0,0,0,0,0
+IAB,Institut fuer Arbeitsmarkt und Berufsforschung,0,0,0,0,0,0,0
+MPIB,Max Planck Institut fuer Bildungsforschung,0,0,0,0,0,0,0
+OekoInstitut,Oeko Institut,0,0,0,0,0,0,0
+EKNE,Enquete Kommission Nachhaltige Energieversorgung,0,0,0,0,0,0,0
+PIK,Potsdam Institut fuer Klimafolgenforschung,0,0,0,0,0,0,0
+WBGU,Wissenschaftlicher Beirat der Bundesregierung fuer Globale Umweltveraenderungen,0,0,0,0,0,0,0
+IPCC,Weltklimarat IPCC,0,0,0,0,0,0,0
+SRC,Stockholm Resilience Centre,0,0,0,0,0,0,0
+UniKiel,Uni Kiel,0,0,0,0,0,0,13
+HWWA,Hamburgischer Welt Wirtschafts Archiv,0,0,0,0,0,0,9
+IABNord,Institut fuer Arbeitsmarkt und Berufsforschung in Kiel,0,0,0,0,0,0,13
+FrauenhoferInstitut,Frauenhofer Institut,0,0,0,0,0,0,0
+MPIM,Max Planck Institut fuer Mikrostrukturphysik,0,0,0,0,0,0,0
+SM,SmartMembranes GmbH,0,0,0,0,0,0,0
+FG,Frauenhofer Gesellschaft eV,0,0,0,0,0,0,0
+PKM,Parlamentskreis Mittelstand,0,0,0,0,0,0,0
+MIT,Mittelstands und Wirtschaftsvereinigung,0,0,0,0,0,0,0
+PBNE,Parlamentarischer Beirat fuer Nachhaltige Entwicklung,0,0,0,0,0,0,0
+EUD,Europa Union Deutschland,0,0,0,0,0,0,0
+AUNR,Ausschuss fuer Umwelt Naturschutz und Reaktorsicherheit,0,0,0,0,0,0,0
